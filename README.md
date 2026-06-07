@@ -1,4 +1,4 @@
-# cloud-engineering-project
+# Cloud Engineering Project
 A comprehensive cloud based project on AWS.
 
 
